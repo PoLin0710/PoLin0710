@@ -1,4 +1,4 @@
-# Polin Huang (黃柏霖) - Introduction
+# Hello, I'm Polin
 
 👋 Hello, I'm Polin Huang, a first-year student majoring in Information Engineering at National Taiwan University of Science and Technology.
 
@@ -14,9 +14,17 @@ I am currently pursuing my undergraduate degree in Information Engineering at Ta
 ## Skills
 
 - **Programming Languages:**
-  - C/C++
-  - Python
-  - LabVIEW
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="40" alt="labview logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
 
 - **Technical Competencies:**
   - Basics of manipulating robotic arms
