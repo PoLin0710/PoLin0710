@@ -9,7 +9,7 @@
 
 ## Education
 
-I am currently pursuing my undergraduate degree in Information Engineering at Taiwan Tech.
+I am currently pursuing my undergraduate degree in Information Engineering at the National Taiwan University of Science and Technology.
 
 ## Skills
 
